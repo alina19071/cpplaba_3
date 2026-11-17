@@ -1,0 +1,9 @@
+/home/alina/projects/cpplaba_3/build/CMakeFiles/matrix_lib.dir
+/home/alina/projects/cpplaba_3/build/CMakeFiles/matrix_calculator.dir
+/home/alina/projects/cpplaba_3/build/CMakeFiles/test.dir
+/home/alina/projects/cpplaba_3/build/CMakeFiles/edit_cache.dir
+/home/alina/projects/cpplaba_3/build/CMakeFiles/rebuild_cache.dir
+/home/alina/projects/cpplaba_3/build/tests/CMakeFiles/matrix_tests.dir
+/home/alina/projects/cpplaba_3/build/tests/CMakeFiles/test.dir
+/home/alina/projects/cpplaba_3/build/tests/CMakeFiles/edit_cache.dir
+/home/alina/projects/cpplaba_3/build/tests/CMakeFiles/rebuild_cache.dir

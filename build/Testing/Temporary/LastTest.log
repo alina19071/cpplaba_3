@@ -1,0 +1,37 @@
+Start testing: Nov 18 00:00 MSK
+----------------------------------------------------------
+1/1 Testing: MatrixTests
+1/1 Test: MatrixTests
+Command: "/home/alina/projects/cpplaba_3/build/tests/matrix_tests"
+Directory: /home/alina/projects/cpplaba_3/build/tests
+"MatrixTests" start time: Nov 18 00:00 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from MatrixTest
+[ RUN      ] MatrixTest.CreateMatrix_NormalCase
+[       OK ] MatrixTest.CreateMatrix_NormalCase (0 ms)
+[ RUN      ] MatrixTest.Addition_NormalCase
+[       OK ] MatrixTest.Addition_NormalCase (0 ms)
+[ RUN      ] MatrixTest.CreateMatrix_ZeroRows
+[       OK ] MatrixTest.CreateMatrix_ZeroRows (0 ms)
+[ RUN      ] MatrixTest.Addition_SizeMismatch
+[       OK ] MatrixTest.Addition_SizeMismatch (0 ms)
+[ RUN      ] MatrixTest.Compare_Task27
+[       OK ] MatrixTest.Compare_Task27 (0 ms)
+[----------] 5 tests from MatrixTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (1 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests" end time: Nov 18 00:00 MSK
+"MatrixTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 18 00:00 MSK
